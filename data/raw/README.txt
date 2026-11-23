@@ -1,0 +1,1 @@
+Place licensed plain-text training documents (.txt) in this folder. The downloader script fills this folder with public-domain Project Gutenberg texts.

@@ -1,0 +1,20 @@
+{
+  "seed": 1337,
+  "block_size": 192,
+  "batch_size": 16,
+  "max_steps": 5000,
+  "eval_interval": 100,
+  "eval_batches": 40,
+  "learning_rate": 0.0003,
+  "min_learning_rate": 0.00003,
+  "warmup_steps": 100,
+  "weight_decay": 0.1,
+  "grad_clip": 1.0,
+  "dropout": 0.15,
+  "n_embd": 256,
+  "n_head": 8,
+  "n_layer": 6,
+  "patience": 12,
+  "min_delta": 0.002,
+  "num_workers": 0
+}

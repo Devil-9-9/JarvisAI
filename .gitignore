@@ -1,0 +1,1 @@
+__pycache__/\n.venv/\nruns/*.pt\nruns/*.jsonl\nruns/*.json\nruns/*.txt\ndata/raw/*.txt\ndata/processed/*.json\n

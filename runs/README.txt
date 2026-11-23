@@ -1,0 +1,1 @@
+Training checkpoints, metric logs, and generated inference output are written here.
